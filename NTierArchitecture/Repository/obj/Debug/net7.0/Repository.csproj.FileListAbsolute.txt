@@ -1,0 +1,102 @@
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Core.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Core.pdb
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Core.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\bin\Debug\net7.0\Core.pdb
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Repository\obj\Debug\net7.0\ref\Repository.dll

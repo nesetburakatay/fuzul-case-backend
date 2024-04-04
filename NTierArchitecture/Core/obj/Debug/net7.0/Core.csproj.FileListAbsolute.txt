@@ -1,0 +1,72 @@
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\obj\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\bin\Debug\net7.0\Core.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\bin\Debug\net7.0\Core.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\Core\obj\Debug\net7.0\ref\Core.dll

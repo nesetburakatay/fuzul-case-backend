@@ -1,0 +1,384 @@
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\appsettings.json
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\API.exe
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\API.deps.json
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\API.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\API.pdb
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Service.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Service.pdb
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.pdb
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\atlas\Desktop\NtierBestPractice\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.pdb
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\appsettings.json
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.exe
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.deps.json
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.pdb
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Service.dll
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Service.pdb
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\atlas\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\appsettings.json
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.exe
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.deps.json
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.pdb
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Core.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Repository.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Service.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Service.pdb
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Core.pdb
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Repository.pdb
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.pdb
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\elifc\Desktop\casegoz\NTierArchitecture\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\appsettings.json
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.exe
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.deps.json
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\API.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Service.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Service.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\bin\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz\NTierArchitecture\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\appsettings.json
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\API.exe
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\API.deps.json
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\API.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\API.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Core.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Repository.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Service.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Service.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Core.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Repository.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.pdb
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\atlas\Desktop\soncaseee\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\appsettings.json
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\API.exe
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\API.deps.json
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\API.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\API.pdb
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Core.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Repository.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Service.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Service.pdb
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Core.pdb
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\bin\Debug\net7.0\Repository.pdb
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.pdb
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\elifc\Desktop\casegoz - Kopya\NTierArchitecture\API\obj\Debug\net7.0\ref\API.dll
